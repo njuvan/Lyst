@@ -1,0 +1,13 @@
+bag
+backpack
+barrel
+bum
+flight
+holdall
+laptop
+messenger
+satchel
+tote
+purse
+clutch
+shopper

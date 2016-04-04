@@ -1,0 +1,17 @@
+shoes
+boot
+boots
+loafers
+trainers
+plimsolls
+sandals
+slippers
+wellies
+flops
+espadrilles
+heel
+heels
+heeled
+flats
+wedges
+sneakers

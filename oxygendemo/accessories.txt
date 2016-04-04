@@ -1,0 +1,15 @@
+hat
+scarf
+glasses
+sunglasses
+gloves
+case
+homewear
+candle
+soap
+gel
+cap
+umbrella
+wallet
+candle
+scents
